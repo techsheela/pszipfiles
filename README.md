@@ -1,2 +1,2 @@
 # pszipfiles
-Powershell script to zip files older than a specific period, and exclude/Include certain files
+This repo has my powershell scripts that I have used in several projects
